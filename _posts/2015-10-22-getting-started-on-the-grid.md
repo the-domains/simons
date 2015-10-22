@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'NOW! NOW! NOW!'
-datePublished: '2015-10-22T21:20:51.667Z'
-dateModified: '2015-10-22T21:20:36.942Z'
-title: Getting Started on The Grid
+datePublished: '2015-10-22T21:21:29.275Z'
+dateModified: '2015-10-22T21:21:12.723Z'
+title: dfhndhnGetting Started on The Grid
 author: []
 sourcePath: _posts/2015-10-22-getting-started-on-the-grid.md
 published: true
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Getting Started on The Grid
+# dfhndhnGetting Started on The Grid
 
 Welcome to The Grid Beta, we're excited to have you onboard! Here are a few quick tips to get you up and running. 
 
