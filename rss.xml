@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Simons]]></title>
+        <description><![CDATA[Simons]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 22 Oct 2015 21:24:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.wheelyscafe.com/img/alps1.png">]]></description>
+            <link>undefinedda4b51f4-6ce4-4807-b2f3-e7b702dbda21/index.html</link>
+            <guid isPermaLink="false">da4b51f4-6ce4-4807-b2f3-e7b702dbda21</guid>
+            <pubDate>Thu, 22 Oct 2015 21:24:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
